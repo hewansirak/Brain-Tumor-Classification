@@ -6,3 +6,4 @@ Pillow
 plotly
 python-dotenv
 google-generativeai
+matplotlib
