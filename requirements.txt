@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+opencv-python
+numpy
+Pillow
+plotly
+python-dotenv
+google-generativeai
