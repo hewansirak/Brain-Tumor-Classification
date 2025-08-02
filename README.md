@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Classification with AI
+# 🧠 Brain Tumor Classification using Neural Networks
 
 A sophisticated Streamlit web application for automated brain tumor classification from MRI scans using state-of-the-art deep learning techniques. This application combines computer vision, explainable AI, and medical imaging analysis to provide accurate tumor classification with interpretable results.
 
